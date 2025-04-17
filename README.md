@@ -72,4 +72,5 @@ Voici un aperçu des technologies, langages et outils avec lesquels je travaille
 ---
 
 ### Mes contacts
-* [Email:]("dylanpanteix.promail@gmail.com")
+* Email: ("mailto:dylanpanteix.promail@gmail.com")
+* [LinkedIn]("https://www.linkedin.com/in/dylan-panteix-79690225")
