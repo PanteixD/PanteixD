@@ -72,5 +72,5 @@ Voici un aperçu des technologies, langages et outils avec lesquels je travaille
 ---
 
 ### Mes contacts
-* [Email Pro]("mailto:dylanpanteix.promail@gmail.com")
-* [LinkedIn]("https://www.linkedin.com/in/dylan-panteix-79690225")
+* <a href="mailto:dylanpanteix.promail@gmail.com" target="_blank">**Email**</a>
+* <a href="https://www.gns3.com/](https://www.linkedin.com/in/dylan-panteix-79690225/" target="_blank">**GNS3**</a>
