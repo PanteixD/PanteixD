@@ -39,7 +39,7 @@
 - Google AI Studio / Gemini
 
 ### Autres outils
-- Visual Studio Code (editeur de codes)
+- <a href="[url](https://code.visualstudio.com/)">Visual Studio Code</a> (editeur de codes)
 - Suite Office (outil all-in-one de bureautique)
 - KeePassXC (gestionnaire de mots de passes)
 - Obsidian (outil de prise de notes/gestion de connaissances personnel)
