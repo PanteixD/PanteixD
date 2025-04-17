@@ -70,3 +70,6 @@ Voici un aperçu des technologies, langages et outils avec lesquels je travaille
 *   <a href="https://www.vmware.com/products/workstation-player.html" target="_blank">**VMWare Workstation Player**</a> (Logiciel de virtualisation - version gratuite)
 
 ---
+
+### Mes contacts
+* [Email:]("dylanpanteix.promail@gmail.com")
