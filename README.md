@@ -7,8 +7,8 @@ Apprenti **Administrateur Réseau** au lycée polyvalent Algoud-Laffemas à Brif
 <a href="https://github.com/PanteixD/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PanteixD" />
 </a>
-<a href="https://github.com/PanteixD/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PanteixD&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/PanteixD/PanteixD.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PanteixD&repo=PanteixD.github.io" />
 </a>
 
 ## 🛠️ Compétences et Outils
