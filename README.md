@@ -11,6 +11,8 @@ Apprenti **Administrateur Réseau** au lycée polyvalent Algoud-Laffemas à Brif
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PanteixD&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+---
+
 ## 🛠️ Compétences et Outils
 
 Voici un aperçu des technologies, langages et outils avec lesquels je travaille :
