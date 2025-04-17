@@ -2,7 +2,7 @@
 ### Je suis Dylan PANTEIX, un apprenti administrateur réseau au lycée polyvalent Algoud-Laffemas à Briffaut. 
 
 
-## Compétences :
+## Compétences et outils :
 ### Administration réseau :
 - Cisco Packet Tracer (outil de simulation d'infrastructure réseau)
 - GNS3 (outil de simulation d'infrastructure réseau)
