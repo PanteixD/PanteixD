@@ -4,7 +4,7 @@ Apprenti **Administrateur Réseau** au lycée polyvalent Algoud-Laffemas à Brif
 
 ---
 
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanteixD&show_icons=true)
+![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanteixD&show_icons=true&theme=transparent)
 
 ## 🛠️ Compétences et Outils
 
