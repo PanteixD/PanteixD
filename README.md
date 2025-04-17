@@ -6,7 +6,7 @@ Apprenti **Administrateur Réseau** au lycée polyvalent Algoud-Laffemas à Brif
 
 ## 🛠️ Compétences et Outils
 
-Voici un aperçu des technologies, langages et outils avec lesquels je travaille (liens s'ouvrant dans un nouvel onglet) :
+Voici un aperçu des technologies, langages et outils avec lesquels je travaille :
 
 ### 🌐 Administration Réseau
 *   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank">**Cisco Packet Tracer**</a> (Outil de simulation d'infrastructure réseau)
