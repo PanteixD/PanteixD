@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Dylan PANTEIX
 
-Apprenti **Administrateur Réseau** au lycée polyvalent Algoud-Laffemas à Briffaut. Passionné par l'informatique, les réseaux et les systèmes et qui fait aussi du dev.
+Apprenti **Administrateur Réseau**. Passionné par l'informatique, les réseaux et les systèmes.
 
 ---
 
